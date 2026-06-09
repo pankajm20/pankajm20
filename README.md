@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pankaj Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <br>
 <br>
-- 🌱 I’m currently learning **DSA,JavaScript**
-
-- 💬 Ask me about **C,C++,HTML,CSS,DBMS**
+- 
+- 💬 Ask me about ** Java(Core&Advanced),SQL,JavaScript, HTML,CSS,Bootstrap, SpringBoot,SpringMVC,Hibernate,Servlets,JSP, RESTAPIs,OOP,Collections,Multithreading,ExecutorFramework,JDBC, Git,GitHub,Eclipse,IntelliJIDEA,VSCode,Postman**
 
 - 📫 How to reach me **mauryapankaj600@gmail.com**
 
